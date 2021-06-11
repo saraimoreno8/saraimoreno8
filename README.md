@@ -1,4 +1,4 @@
-hi.
+
 
 <!---
 saraimoreno8/saraimoreno8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
